@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\bin\Debug\net8.0\MultidimensionalArray.exe
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\bin\Debug\net8.0\MultidimensionalArray.deps.json
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\bin\Debug\net8.0\MultidimensionalArray.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\bin\Debug\net8.0\MultidimensionalArray.dll
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\bin\Debug\net8.0\MultidimensionalArray.pdb
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\obj\Debug\net8.0\MultidimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\obj\Debug\net8.0\MultidimensionalArray.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\obj\Debug\net8.0\MultidimensionalArray.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\obj\Debug\net8.0\MultidimensionalArray.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\obj\Debug\net8.0\MultidimensionalArray.sourcelink.json
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\obj\Debug\net8.0\MultidimensionalArray.dll
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\obj\Debug\net8.0\refint\MultidimensionalArray.dll
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\obj\Debug\net8.0\MultidimensionalArray.pdb
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\obj\Debug\net8.0\MultidimensionalArray.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\03-Array\MultidimensionalArray\obj\Debug\net8.0\ref\MultidimensionalArray.dll

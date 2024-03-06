@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\bin\Debug\net8.0\BreakStatement.exe
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\bin\Debug\net8.0\BreakStatement.deps.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\bin\Debug\net8.0\BreakStatement.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\bin\Debug\net8.0\BreakStatement.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\bin\Debug\net8.0\BreakStatement.pdb
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\obj\Debug\net8.0\BreakStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\obj\Debug\net8.0\BreakStatement.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\obj\Debug\net8.0\BreakStatement.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\obj\Debug\net8.0\BreakStatement.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\obj\Debug\net8.0\BreakStatement.sourcelink.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\obj\Debug\net8.0\BreakStatement.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\obj\Debug\net8.0\refint\BreakStatement.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\obj\Debug\net8.0\BreakStatement.pdb
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\obj\Debug\net8.0\BreakStatement.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\BreakStatement\obj\Debug\net8.0\ref\BreakStatement.dll

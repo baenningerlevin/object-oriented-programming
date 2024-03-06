@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic id="Ueberblick"
+       title="Überblick"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd">
+
+    <section-starting-page>
+        <title>Objektorientierte Programmierung</title>
+        <description>
+            Dies ist eine Dokumentation über die objektorientierte Programmierung, sie umfässt Themen wie die
+            grundlegenden Konzepte von OOP, aber auch C# und ASP.NET Core MVC.
+        </description>
+
+        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
+        <spotlight>
+            <a href="CSharp.md" type="development">C#</a>
+            <a href="Konzepte-OOP.md" type="mixed">Objektorientierte Programmierung</a>
+        </spotlight>
+
+        <!--    Add several topics that are most important for this section.    -->
+        <primary>
+            <title>Objektorientierte Programmierung</title>
+            <a href="Abstraktion.md">Abstraktion</a>
+            <a href="Kapselung.md">Kapselung</a>
+            <a href="Vererbung-Konzept.md">Vererbung</a>
+            <a href="Polymorphismus-Konzept.md">Polymorphismus</a>
+        </primary>
+
+        <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
+        <secondary>
+            <title>C#</title>
+            <a href="Einfuehrung.md">Einführung</a>
+            <a href="Kontrollstrukturen.md">Kontrollstrukturen</a>
+            <a href="Arrays.md">Arrays</a>
+            <a href="OOP.md">OOP</a>
+        </secondary>
+
+        <!--    Optionally add additional cards and links to topics that are not in this section but may be relevant.    -->
+        <misc>
+            <!-- <cards>
+               <title>ASP.NET Core MVC</title>
+               <a href="HTML-Syntax.md">Grundlagen</a>
+               <a href="Textelemente.md">Textelemente</a>
+               <a href="Webseitenstruktur.md">Webseitenstruktur</a>
+               <a href="Medien.md">Medien</a>
+            </cards> -->
+
+            <links>
+                <group>
+                    <title>Tutorials</title>
+                    <a href="https://www.programiz.com/csharp-programming" summary="C# Tutorial from Programiz">Programiz
+                        - C# Tutorial</a>
+                    <a href="https://www.w3schools.com/cs/index.php"
+                       summary="C# Tutorial from Programiz">Udemy
+                        - C# Tutorial</a>
+                    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"
+                       summary="Official C# Documentation from Microsoft">Microsoft - C# Documentation</a>
+                </group>
+            </links>
+        </misc>
+    </section-starting-page>
+
+</topic>

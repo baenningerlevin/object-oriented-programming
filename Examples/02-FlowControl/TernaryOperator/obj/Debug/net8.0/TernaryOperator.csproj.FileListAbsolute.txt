@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\bin\Debug\net8.0\TernaryOperator.exe
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\bin\Debug\net8.0\TernaryOperator.deps.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\bin\Debug\net8.0\TernaryOperator.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\bin\Debug\net8.0\TernaryOperator.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\bin\Debug\net8.0\TernaryOperator.pdb
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\obj\Debug\net8.0\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\obj\Debug\net8.0\TernaryOperator.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\obj\Debug\net8.0\TernaryOperator.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\obj\Debug\net8.0\TernaryOperator.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\obj\Debug\net8.0\TernaryOperator.sourcelink.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\obj\Debug\net8.0\TernaryOperator.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\obj\Debug\net8.0\refint\TernaryOperator.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\obj\Debug\net8.0\TernaryOperator.pdb
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\obj\Debug\net8.0\TernaryOperator.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\TernaryOperator\obj\Debug\net8.0\ref\TernaryOperator.dll

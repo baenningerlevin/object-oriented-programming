@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\bin\Debug\net8.0\ClassesObjects.exe
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\bin\Debug\net8.0\ClassesObjects.deps.json
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\bin\Debug\net8.0\ClassesObjects.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\bin\Debug\net8.0\ClassesObjects.dll
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\bin\Debug\net8.0\ClassesObjects.pdb
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\obj\Debug\net8.0\ClassesObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\obj\Debug\net8.0\ClassesObjects.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\obj\Debug\net8.0\ClassesObjects.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\obj\Debug\net8.0\ClassesObjects.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\obj\Debug\net8.0\ClassesObjects.sourcelink.json
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\obj\Debug\net8.0\ClassesObjects.dll
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\obj\Debug\net8.0\refint\ClassesObjects.dll
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\obj\Debug\net8.0\ClassesObjects.pdb
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\obj\Debug\net8.0\ClassesObjects.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\03-OOP\ClassesObjects\obj\Debug\net8.0\ref\ClassesObjects.dll

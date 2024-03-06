@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\bin\Debug\net8.0\UnaryOperators.exe
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\bin\Debug\net8.0\UnaryOperators.deps.json
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\bin\Debug\net8.0\UnaryOperators.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\bin\Debug\net8.0\UnaryOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\bin\Debug\net8.0\UnaryOperators.pdb
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\obj\Debug\net8.0\UnaryOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\obj\Debug\net8.0\UnaryOperators.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\obj\Debug\net8.0\UnaryOperators.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\obj\Debug\net8.0\UnaryOperators.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\obj\Debug\net8.0\UnaryOperators.sourcelink.json
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\obj\Debug\net8.0\UnaryOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\obj\Debug\net8.0\refint\UnaryOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\obj\Debug\net8.0\UnaryOperators.pdb
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\obj\Debug\net8.0\UnaryOperators.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\Operators\UnaryOperators\obj\Debug\net8.0\ref\UnaryOperators.dll

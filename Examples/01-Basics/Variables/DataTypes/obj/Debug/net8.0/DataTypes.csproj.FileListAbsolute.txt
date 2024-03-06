@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\bin\Debug\net8.0\DataTypes.exe
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\bin\Debug\net8.0\DataTypes.deps.json
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\bin\Debug\net8.0\DataTypes.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\bin\Debug\net8.0\DataTypes.dll
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\bin\Debug\net8.0\DataTypes.pdb
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\obj\Debug\net8.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\obj\Debug\net8.0\DataTypes.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\obj\Debug\net8.0\DataTypes.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\obj\Debug\net8.0\DataTypes.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\obj\Debug\net8.0\DataTypes.sourcelink.json
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\obj\Debug\net8.0\DataTypes.dll
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\obj\Debug\net8.0\refint\DataTypes.dll
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\obj\Debug\net8.0\DataTypes.pdb
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\obj\Debug\net8.0\DataTypes.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\Variables\DataTypes\obj\Debug\net8.0\ref\DataTypes.dll

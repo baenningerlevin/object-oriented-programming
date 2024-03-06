@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\bin\Debug\net8.0\ifElse.exe
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\bin\Debug\net8.0\ifElse.deps.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\bin\Debug\net8.0\ifElse.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\bin\Debug\net8.0\ifElse.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\bin\Debug\net8.0\ifElse.pdb
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\obj\Debug\net8.0\ifElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\obj\Debug\net8.0\ifElse.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\obj\Debug\net8.0\ifElse.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\obj\Debug\net8.0\ifElse.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\obj\Debug\net8.0\ifElse.sourcelink.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\obj\Debug\net8.0\ifElse.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\obj\Debug\net8.0\refint\ifElse.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\obj\Debug\net8.0\ifElse.pdb
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\obj\Debug\net8.0\ifElse.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\ifElse\obj\Debug\net8.0\ref\ifElse.dll

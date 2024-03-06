@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\bin\Debug\net8.0\VariablesBasics.exe
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\bin\Debug\net8.0\VariablesBasics.deps.json
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\bin\Debug\net8.0\VariablesBasics.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\bin\Debug\net8.0\VariablesBasics.dll
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\bin\Debug\net8.0\VariablesBasics.pdb
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\obj\Debug\net8.0\VariablesBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\obj\Debug\net8.0\VariablesBasics.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\obj\Debug\net8.0\VariablesBasics.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\obj\Debug\net8.0\VariablesBasics.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\obj\Debug\net8.0\VariablesBasics.sourcelink.json
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\obj\Debug\net8.0\VariablesBasics.dll
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\obj\Debug\net8.0\refint\VariablesBasics.dll
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\obj\Debug\net8.0\VariablesBasics.pdb
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\obj\Debug\net8.0\VariablesBasics.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\Variables\VariablesBasics\obj\Debug\net8.0\ref\VariablesBasics.dll

@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\bin\Debug\net8.0\Switch.exe
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\bin\Debug\net8.0\Switch.deps.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\bin\Debug\net8.0\Switch.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\bin\Debug\net8.0\Switch.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\bin\Debug\net8.0\Switch.pdb
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\obj\Debug\net8.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\obj\Debug\net8.0\Switch.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\obj\Debug\net8.0\Switch.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\obj\Debug\net8.0\Switch.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\obj\Debug\net8.0\Switch.sourcelink.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\obj\Debug\net8.0\Switch.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\obj\Debug\net8.0\refint\Switch.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\obj\Debug\net8.0\Switch.pdb
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\obj\Debug\net8.0\Switch.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\Switch\obj\Debug\net8.0\ref\Switch.dll

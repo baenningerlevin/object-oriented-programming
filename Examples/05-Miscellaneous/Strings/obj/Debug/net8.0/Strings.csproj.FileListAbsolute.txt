@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\bin\Debug\net8.0\Strings.exe
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\bin\Debug\net8.0\Strings.deps.json
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\bin\Debug\net8.0\Strings.dll
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\bin\Debug\net8.0\Strings.pdb
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\obj\Debug\net8.0\Strings.sourcelink.json
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\obj\Debug\net8.0\Strings.dll
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\obj\Debug\net8.0\refint\Strings.dll
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\obj\Debug\net8.0\Strings.pdb
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Strings\obj\Debug\net8.0\ref\Strings.dll

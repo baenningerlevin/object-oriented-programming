@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+
+    <variables>
+        <primary-color>deep-ocean</primary-color>
+        <algolia-id>IF8D71HIAM</algolia-id>
+        <algolia-index>prod_OOP</algolia-index>
+        <algolia-api-key>6227e660560e7641fbd0de22c2101d87</algolia-api-key>
+        <web-root>https://baenningerlevin.github.io/oop/</web-root>
+    </variables>
+    <build-profile instance="hi">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+        <footer>
+            <copyright>Levin Bänninger 2023</copyright>
+            <social type="linkedin" href="https://www.linkedin.com/in/levinbaenninger/">LinkedIn</social>
+            <social type="email" href="mailto:l.baenninger@icloud.com">E-Mail</social>
+            <social type="blog" href="https://www.levinbaenninger.dev">Portfolio</social>
+        </footer>
+    </build-profile>
+
+</buildprofiles>

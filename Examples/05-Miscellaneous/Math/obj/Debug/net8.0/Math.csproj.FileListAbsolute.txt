@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\bin\Debug\net8.0\Math.exe
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\bin\Debug\net8.0\Math.deps.json
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\bin\Debug\net8.0\Math.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\bin\Debug\net8.0\Math.dll
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\bin\Debug\net8.0\Math.pdb
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\obj\Debug\net8.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\obj\Debug\net8.0\Math.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\obj\Debug\net8.0\Math.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\obj\Debug\net8.0\Math.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\obj\Debug\net8.0\Math.sourcelink.json
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\obj\Debug\net8.0\Math.dll
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\obj\Debug\net8.0\refint\Math.dll
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\obj\Debug\net8.0\Math.pdb
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\obj\Debug\net8.0\Math.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\05-Miscellaneous\Math\obj\Debug\net8.0\ref\Math.dll

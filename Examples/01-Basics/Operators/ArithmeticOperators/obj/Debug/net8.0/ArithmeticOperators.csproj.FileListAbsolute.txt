@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.exe
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.deps.json
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\bin\Debug\net8.0\ArithmeticOperators.pdb
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.sourcelink.json
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\obj\Debug\net8.0\refint\ArithmeticOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.pdb
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\obj\Debug\net8.0\ArithmeticOperators.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\Operators\ArithmeticOperators\obj\Debug\net8.0\ref\ArithmeticOperators.dll

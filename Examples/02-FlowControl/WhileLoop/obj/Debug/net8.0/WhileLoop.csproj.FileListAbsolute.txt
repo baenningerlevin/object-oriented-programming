@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\bin\Debug\net8.0\WhileLoop.exe
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\bin\Debug\net8.0\WhileLoop.deps.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\bin\Debug\net8.0\WhileLoop.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\bin\Debug\net8.0\WhileLoop.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\bin\Debug\net8.0\WhileLoop.pdb
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\obj\Debug\net8.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\obj\Debug\net8.0\WhileLoop.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\obj\Debug\net8.0\WhileLoop.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\obj\Debug\net8.0\WhileLoop.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\obj\Debug\net8.0\WhileLoop.sourcelink.json
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\obj\Debug\net8.0\WhileLoop.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\obj\Debug\net8.0\refint\WhileLoop.dll
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\obj\Debug\net8.0\WhileLoop.pdb
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\obj\Debug\net8.0\WhileLoop.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\02-FlowControl\WhileLoop\obj\Debug\net8.0\ref\WhileLoop.dll

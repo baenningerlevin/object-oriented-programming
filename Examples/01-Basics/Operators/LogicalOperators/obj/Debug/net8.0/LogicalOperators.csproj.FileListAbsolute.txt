@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\bin\Debug\net8.0\LogicalOperators.exe
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\bin\Debug\net8.0\LogicalOperators.deps.json
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\bin\Debug\net8.0\LogicalOperators.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\bin\Debug\net8.0\LogicalOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\bin\Debug\net8.0\LogicalOperators.pdb
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.sourcelink.json
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\obj\Debug\net8.0\refint\LogicalOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.pdb
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\obj\Debug\net8.0\LogicalOperators.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\Operators\LogicalOperators\obj\Debug\net8.0\ref\LogicalOperators.dll

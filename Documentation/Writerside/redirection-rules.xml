@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="1cc7a7f4">
+        <description>Created after removal of "Überblick" from Objektorientierte Programmierung</description>
+        <accepts>Ueberblick.html</accepts>
+    </rule>
+    <rule id="7ede9c13">
+        <description>Created after removal of "Keywords und Identifiers" from Objektorientierte Programmierung
+        </description>
+        <accepts>Keywords-Identifiers.html</accepts>
+    </rule>
+    <rule id="49dc91fa">
+        <description>
+            <![CDATA[Created after removal of "<Relationale-Operatoren.md>" from Objektorientierte Programmierung]]></description>
+        <accepts>Relationale-Operatoren.html</accepts>
+    </rule>
+    <rule id="72fe606">
+        <description>Created after removal of "Ausdrücke und Anweisungen" from Objektorientierte Programmierung
+        </description>
+        <accepts>Ausdrücke-und-Anweisungen.html</accepts>
+    </rule>
+    <rule id="132e0822">
+        <description>Created after removal of "enum" from Objektorientierte Programmierung</description>
+        <accepts>enums.html</accepts>
+    </rule>
+    <rule id="687a45b1">
+        <description>Created after removal of "using" from Objektorientierte Programmierung</description>
+        <accepts>using.html</accepts>
+    </rule>
+    <rule id="46a5a18e">
+        <description>Created after removal of "Namespaces" from Objektorientierte Programmierung</description>
+        <accepts>Namespaces.html</accepts>
+    </rule>
+    <rule id="198706a4">
+        <description>Created after removal of "ASP.NET Core MVC" from Objektorientierte Programmierung</description>
+        <accepts>ASP-NET-Core-MVC.html</accepts>
+    </rule>
+</rules>

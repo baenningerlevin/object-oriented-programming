@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\bin\Debug\net8.0\ArrayBasics.exe
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\bin\Debug\net8.0\ArrayBasics.deps.json
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\bin\Debug\net8.0\ArrayBasics.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\bin\Debug\net8.0\ArrayBasics.dll
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\bin\Debug\net8.0\ArrayBasics.pdb
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\obj\Debug\net8.0\ArrayBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\obj\Debug\net8.0\ArrayBasics.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\obj\Debug\net8.0\ArrayBasics.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\obj\Debug\net8.0\ArrayBasics.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\obj\Debug\net8.0\ArrayBasics.sourcelink.json
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\obj\Debug\net8.0\ArrayBasics.dll
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\obj\Debug\net8.0\refint\ArrayBasics.dll
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\obj\Debug\net8.0\ArrayBasics.pdb
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\obj\Debug\net8.0\ArrayBasics.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\03-Array\ArrayBasics\obj\Debug\net8.0\ref\ArrayBasics.dll

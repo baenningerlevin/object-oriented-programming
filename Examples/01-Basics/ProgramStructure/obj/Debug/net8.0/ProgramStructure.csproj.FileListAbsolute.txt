@@ -1,0 +1,30 @@
+D:\Programmieren\Module\OOP\C#\ProgramStructure\bin\Debug\net8.0\ProgramStructure.exe
+D:\Programmieren\Module\OOP\C#\ProgramStructure\bin\Debug\net8.0\ProgramStructure.deps.json
+D:\Programmieren\Module\OOP\C#\ProgramStructure\bin\Debug\net8.0\ProgramStructure.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\ProgramStructure\bin\Debug\net8.0\ProgramStructure.dll
+D:\Programmieren\Module\OOP\C#\ProgramStructure\bin\Debug\net8.0\ProgramStructure.pdb
+D:\Programmieren\Module\OOP\C#\ProgramStructure\obj\Debug\net8.0\ProgramStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\ProgramStructure\obj\Debug\net8.0\ProgramStructure.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\ProgramStructure\obj\Debug\net8.0\ProgramStructure.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\ProgramStructure\obj\Debug\net8.0\ProgramStructure.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\ProgramStructure\obj\Debug\net8.0\ProgramStructure.sourcelink.json
+D:\Programmieren\Module\OOP\C#\ProgramStructure\obj\Debug\net8.0\ProgramStructure.dll
+D:\Programmieren\Module\OOP\C#\ProgramStructure\obj\Debug\net8.0\refint\ProgramStructure.dll
+D:\Programmieren\Module\OOP\C#\ProgramStructure\obj\Debug\net8.0\ProgramStructure.pdb
+D:\Programmieren\Module\OOP\C#\ProgramStructure\obj\Debug\net8.0\ProgramStructure.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\ProgramStructure\obj\Debug\net8.0\ref\ProgramStructure.dll
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\bin\Debug\net8.0\ProgramStructure.exe
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\bin\Debug\net8.0\ProgramStructure.deps.json
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\bin\Debug\net8.0\ProgramStructure.runtimeconfig.json
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\bin\Debug\net8.0\ProgramStructure.dll
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\bin\Debug\net8.0\ProgramStructure.pdb
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\obj\Debug\net8.0\ProgramStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\obj\Debug\net8.0\ProgramStructure.AssemblyInfoInputs.cache
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\obj\Debug\net8.0\ProgramStructure.AssemblyInfo.cs
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\obj\Debug\net8.0\ProgramStructure.csproj.CoreCompileInputs.cache
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\obj\Debug\net8.0\ProgramStructure.sourcelink.json
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\obj\Debug\net8.0\ProgramStructure.dll
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\obj\Debug\net8.0\refint\ProgramStructure.dll
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\obj\Debug\net8.0\ProgramStructure.pdb
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\obj\Debug\net8.0\ProgramStructure.genruntimeconfig.cache
+C:\Users\U60949\Dokumente (Informatik)\Module\OOP\C#\01-Basics\ProgramStructure\obj\Debug\net8.0\ref\ProgramStructure.dll

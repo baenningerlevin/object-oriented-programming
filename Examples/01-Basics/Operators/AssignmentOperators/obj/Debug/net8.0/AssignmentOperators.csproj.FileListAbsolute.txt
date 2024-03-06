@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.exe
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.deps.json
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.pdb
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.sourcelink.json
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\obj\Debug\net8.0\refint\AssignmentOperators.dll
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.pdb
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\Operators\AssignmentOperators\obj\Debug\net8.0\ref\AssignmentOperators.dll

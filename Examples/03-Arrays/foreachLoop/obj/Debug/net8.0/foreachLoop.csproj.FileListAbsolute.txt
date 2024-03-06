@@ -1,0 +1,15 @@
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\bin\Debug\net8.0\foreachLoop.exe
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\bin\Debug\net8.0\foreachLoop.deps.json
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\bin\Debug\net8.0\foreachLoop.runtimeconfig.json
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\bin\Debug\net8.0\foreachLoop.dll
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\bin\Debug\net8.0\foreachLoop.pdb
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\obj\Debug\net8.0\foreachLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\obj\Debug\net8.0\foreachLoop.AssemblyInfoInputs.cache
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\obj\Debug\net8.0\foreachLoop.AssemblyInfo.cs
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\obj\Debug\net8.0\foreachLoop.csproj.CoreCompileInputs.cache
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\obj\Debug\net8.0\foreachLoop.sourcelink.json
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\obj\Debug\net8.0\foreachLoop.dll
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\obj\Debug\net8.0\refint\foreachLoop.dll
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\obj\Debug\net8.0\foreachLoop.pdb
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\obj\Debug\net8.0\foreachLoop.genruntimeconfig.cache
+D:\Programmieren\Module\OOP\C#\03-Array\foreachLoop\obj\Debug\net8.0\ref\foreachLoop.dll
