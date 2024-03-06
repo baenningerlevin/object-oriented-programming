@@ -51,9 +51,39 @@ Um eine abstrakte Klasse zu erstellen, können wir den Namen der Klasse kursiv m
 Eine Assoziation wird mit einer simplen Linie erstellt. Die Assoziation heisst aber nicht, dass die Klassen abhängig voneinander sind. Sie haben nur
 eine Beziehung zwischen einander.
 
-![assoziation.png](assoziation.png)
+![assoziation.png](assoziation.png) { width="350" thumbnail="true" }
 
 ### Aggregation
 
+Die Aggregation ist eine spezielle Art von Assoziation. In dieser Relation kann ein Objekt Teil von einer anderen Klasse sein, muss aber nicht. Am
+besten schauen wir uns dazu ien Beispiel an:
+
+![aggregation.png](aggregation.png) { width="350" thumbnail="true" }
+
+Hier sieht man gut, dass eine Schildkröte zu einer Gruppe gehören kann, jedoch kann eine Schildkröte auch ohne Probleme ohne Gruppe existieren.
+
 ### Komposition
 
+Die Komposition ist exakt gleich wie die Aggregation, ausser dass hier das Objekt nicht ausserhalb der referenzierten Klasse existieren kann.
+
+![](komposition.png) { width="350" thumbnail="true"}
+
+In diesem Beispiel können die Lobby und die Toiletten nicht existieren, falls es kein Besucherzentrum gibt.
+
+### Multiplicity
+
+Mit Multiplicity können wir numerische Einschränkungen für unsere Beziehungen festlegen:
+
+| Schreibweise | Beschreibung               |
+|--------------|----------------------------|
+| `0..1`       | Zero to one                |
+| `n`          | Spezifische Zahl           |
+| `0..*`       | Zero to many               |
+| `1..*`       | One to many                |
+| `m..n`       | Spezifischer Zahlenbereich |
+
+![](multiplicity.png) { width="350" thumbnail="true" }
+
+## Beispiel
+
+![klassendiagramm_beispiel.png](klassendiagramm_beispiel.png) { width="500" thumbnail="true" }

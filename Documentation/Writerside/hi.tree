@@ -90,7 +90,7 @@
         </toc-element>
         <toc-element topic="Controller.md"/>
         <toc-element topic="Views.md"/>
-        <toc-element topic="Relationen.md">
+        <toc-element toc-title="Relationen">
             <toc-element topic="One-To-Many.md"/>
             <toc-element topic="Many-To-Many.md"/>
         </toc-element>

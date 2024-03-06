@@ -12,8 +12,8 @@ Vorlagen. In diesem Fall wählen wir die Vorlage <ui-path>MVC-Controller mit Ans
 In den Feldern müssen wir einerseits, das **Modell** angeben, aus welchem wir den Controller erstellen müssen und die Klasse mit welcher **die
 Kommunikation zwischen Applikation und Server** abläuft. Zuletzt müssen wir den **Namen unseres Controllers** definieren.
 
-> Die Konvention für Controller-Namen ist, dass es immer die **Mehrzahl des Modelklassen-Namens** sein soll. Zudem muss der Name des Controllers auf *
-*Controller** enden
+> Die Konvention für Controller-Namen ist, dass es immer die **Mehrzahl des Modelklassen-Namens** sein soll. Zudem muss der Name des Controllers auf
+**Controller** enden
 
 Nach der Erstellung sehen wir, dass .NET einen Standard-Controller mit den Views `Index`, `Edit`, `Detail` und `Create` und `Delete` erstellt hat.
 
@@ -98,7 +98,7 @@ neu geladen.
 ### Umgang mit IDs
 
 IDs werden vor allem für das Löschen und Editieren von Datensätzen gebraucht. Dafür benutzen wir in der View den Tag-Helper `asp-route-...`. In
-unserem Fall nennen wir den Parameter `categoryId`, also `asp-route-categoryId` und geben dem Attribut den Wert von `@obj.categoryId`.
+unserem Fall nennen wir den Parameter `id`, also `asp-route-id` und geben dem Attribut den Wert von `@obj.Id`.
 
 Diese ID können wir nun im Controller ansprechen:
 

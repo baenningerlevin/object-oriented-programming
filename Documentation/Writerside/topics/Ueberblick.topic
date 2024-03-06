@@ -21,42 +21,55 @@
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
-            <title>Objektorientierte Programmierung</title>
-            <a href="Abstraktion.md">Abstraktion</a>
-            <a href="Kapselung.md">Kapselung</a>
-            <a href="Vererbung-Konzept.md">Vererbung</a>
-            <a href="Polymorphismus-Konzept.md">Polymorphismus</a>
+            <title>UML und ASP.NET Core MVC</title>
+            <a href="UML.md" type="documents">UML</a>
+            <a href="ASP-NET-Core-MVC.md" type="computer">ASP.NET Core MVC</a>
         </primary>
 
-        <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
         <secondary>
-            <title>C#</title>
-            <a href="Einfuehrung.md">Einführung</a>
-            <a href="Kontrollstrukturen.md">Kontrollstrukturen</a>
-            <a href="Arrays.md">Arrays</a>
-            <a href="OOP.md">OOP</a>
+            <title>Weiterführende Themen zu ASP.NET Core MVC</title>
+            <a href="Projekt-konfigurieren.md">Projekt konfigurieren</a>
+            <a href="Views.md">Views</a>
+            <a href="Controller.md">Controllers</a>
+            <a href="Modelle.md">Models</a>
         </secondary>
 
         <!--    Optionally add additional cards and links to topics that are not in this section but may be relevant.    -->
         <misc>
-            <!-- <cards>
-               <title>ASP.NET Core MVC</title>
-               <a href="HTML-Syntax.md">Grundlagen</a>
-               <a href="Textelemente.md">Textelemente</a>
-               <a href="Webseitenstruktur.md">Webseitenstruktur</a>
-               <a href="Medien.md">Medien</a>
-            </cards> -->
-
             <links>
                 <group>
-                    <title>Tutorials</title>
-                    <a href="https://www.programiz.com/csharp-programming" summary="C# Tutorial from Programiz">Programiz
+                    <title>Tutorials - C#</title>
+                    <a href="https://www.programiz.com/csharp-programming" summary="C# Tutorial von Programiz">Programiz
                         - C# Tutorial</a>
                     <a href="https://www.w3schools.com/cs/index.php"
-                       summary="C# Tutorial from Programiz">Udemy
+                       summary="C# Tutorial von Programiz">W3Schools
                         - C# Tutorial</a>
                     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"
-                       summary="Official C# Documentation from Microsoft">Microsoft - C# Documentation</a>
+                       summary="Offizielle C# Dokumentation von Microsoft">Microsoft - C# Dokumentation</a>
+                </group>
+                <group>
+                    <title>UML</title>
+                    <a href="https://www.youtube.com/watch?v=6XrL5jXmTwM"
+                       summary="Klassendiagramme Tutorial von Lucidchart">Lucidchart -
+                        Klassendiagramme</a>
+                    <a href="https://www.youtube.com/watch?v=4emxjxonNRI"
+                       summary="Use-Case-Diagramme Tutorial von Lucidchart">Lucidchart - Use-Case-Diagramm</a>
+                    <a href="https://www.youtube.com/watch?v=pCK6prSq8aw"
+                       summary="Sequenzdiagramme Tutorial von Lucidchart">Lucidchart - Sequenzdiagramm</a>
+                    <a href="https://www.lucidchart.com/pages/uml-class-diagram"
+                       summary="UML Tutorial von Lucidchart">Lucidchart - UML</a>
+                </group>
+                <group>
+                    <title>ASP.NET Core MVC</title>
+                    <a href="https://shorturl.at/dopyz"
+                       summary="Offizielle ASP.NET Core MVC Dokumentation von Microsoft">Microsoft - ASP.NET Core MVC
+                        Dokumentation</a>
+                    <a href="https://learn.microsoft.com/en-us/ef/core/"
+                       summary="Offizielle Entity Framework Core Dokumentation von Microsoft">Microsoft - Entity
+                        Framework Core
+                        Dokumentation</a>
+                    <a href="https://www.youtube.com/watch?v=AopeJjkcRvU"
+                       summary="ASP.NET Core MVC Guide von DotNetMaster">DotNetMaster - ASP.NET Core MVC Guide</a>
                 </group>
             </links>
         </misc>
