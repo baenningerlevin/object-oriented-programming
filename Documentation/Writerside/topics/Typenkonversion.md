@@ -34,7 +34,7 @@ kleinere Typen wie `int` konvertiert. Zum Beispiel:
 
 <tabs>
     <tab title="C#">
-        <code-block lang="c#" src="implicit.cs" />
+        <code-block lang="c#" src="explicit.cs" />
     </tab>
     <tab title="Output">
         <code-block lang="bash">
