@@ -41,4 +41,8 @@
         <description>Created after removal of "ASP.NET Core MVC" from Objektorientierte Programmierung</description>
         <accepts>ASP-NET-Core-MVC.html</accepts>
     </rule>
+    <rule id="44d985f4">
+        <description>Created after removal of "try...catch" from Objektorientierte Programmierung</description>
+        <accepts>try-catch.html</accepts>
+    </rule>
 </rules>

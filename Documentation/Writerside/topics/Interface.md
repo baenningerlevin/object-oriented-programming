@@ -23,5 +23,5 @@ wie bei der Vererbung das `:`-Symbol.
 > - Genau wie abstrakte Klassen kann man mit Interfaces **keine Objekte erstellen**
 > - Bei der Implementation müssen **alle Methoden überschrieben** werden
 > - Ein Interface kann **keinen Konstruktor** haben
-> - Im Gegensatz zur Vererbung kann man mit Interfaces die sogenannte **_Multiple Inheritance_** erreichen, da man **mehrere Interfaces implementieren
-    ** kann
+> - Im Gegensatz zur Vererbung kann man mit Interfaces die sogenannte **_Multiple Inheritance_** erreichen, da man
+    **mehrere Interfaces implementieren** kann

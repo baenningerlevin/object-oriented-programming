@@ -79,7 +79,6 @@
             <toc-element topic="Strings.md"/>
             <toc-element topic="Scope.md"/>
             <toc-element topic="Files.md"/>
-            <toc-element topic="try-catch.md"/>
             <toc-element topic="Math.md"/>
         </toc-element>
     </toc-element>

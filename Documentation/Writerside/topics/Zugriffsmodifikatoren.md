@@ -84,7 +84,7 @@ eine
 logische Einheit der Funktionalität bilden.
 
 Wenn wir ein Assembly ausführen, werden daher alle Klassen und Schnittstellen innerhalb der Assembly gemeinsam ausgeführt. Um mehr zu erfahren,
-besuche [C# Assembly](https://learn.microsoft.com/en-us/dotnet/standard/assembly/).
+besuche [**C# Assembly**](https://learn.microsoft.com/en-us/dotnet/standard/assembly/).
 
 ## Mischformen
 
